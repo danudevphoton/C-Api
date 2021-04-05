@@ -1,0 +1,16 @@
+C:\Users\DanuMahendra\Documents\GitHub\C-Api\LearnCDocs\bin\Debug\net5.0\LearnCDocs.exe
+C:\Users\DanuMahendra\Documents\GitHub\C-Api\LearnCDocs\bin\Debug\net5.0\LearnCDocs.deps.json
+C:\Users\DanuMahendra\Documents\GitHub\C-Api\LearnCDocs\bin\Debug\net5.0\LearnCDocs.runtimeconfig.json
+C:\Users\DanuMahendra\Documents\GitHub\C-Api\LearnCDocs\bin\Debug\net5.0\LearnCDocs.runtimeconfig.dev.json
+C:\Users\DanuMahendra\Documents\GitHub\C-Api\LearnCDocs\bin\Debug\net5.0\LearnCDocs.dll
+C:\Users\DanuMahendra\Documents\GitHub\C-Api\LearnCDocs\bin\Debug\net5.0\ref\LearnCDocs.dll
+C:\Users\DanuMahendra\Documents\GitHub\C-Api\LearnCDocs\bin\Debug\net5.0\LearnCDocs.pdb
+C:\Users\DanuMahendra\Documents\GitHub\C-Api\LearnCDocs\obj\Debug\net5.0\LearnCDocs.csprojAssemblyReference.cache
+C:\Users\DanuMahendra\Documents\GitHub\C-Api\LearnCDocs\obj\Debug\net5.0\LearnCDocs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DanuMahendra\Documents\GitHub\C-Api\LearnCDocs\obj\Debug\net5.0\LearnCDocs.AssemblyInfoInputs.cache
+C:\Users\DanuMahendra\Documents\GitHub\C-Api\LearnCDocs\obj\Debug\net5.0\LearnCDocs.AssemblyInfo.cs
+C:\Users\DanuMahendra\Documents\GitHub\C-Api\LearnCDocs\obj\Debug\net5.0\LearnCDocs.csproj.CoreCompileInputs.cache
+C:\Users\DanuMahendra\Documents\GitHub\C-Api\LearnCDocs\obj\Debug\net5.0\LearnCDocs.dll
+C:\Users\DanuMahendra\Documents\GitHub\C-Api\LearnCDocs\obj\Debug\net5.0\ref\LearnCDocs.dll
+C:\Users\DanuMahendra\Documents\GitHub\C-Api\LearnCDocs\obj\Debug\net5.0\LearnCDocs.pdb
+C:\Users\DanuMahendra\Documents\GitHub\C-Api\LearnCDocs\obj\Debug\net5.0\LearnCDocs.genruntimeconfig.cache
